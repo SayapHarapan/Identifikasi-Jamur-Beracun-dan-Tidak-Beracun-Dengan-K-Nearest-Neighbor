@@ -1,0 +1,2 @@
+# Identifikasi-Jamur-Beracun-dan-Tidak-Beracun-Dengan-K-Nearest-Neighbor
+Teknologi Machine Learning dan pengolahan citra digital telah banyak digunakan dalam berbagai penelitian untuk dapat melakukan identifikasi dan klasifikasi. Salah satu jenis metode yang dinilai cepat dengan akurasi yang tinggi adalah KNN atau K-Nearest Neighbor. Penelitian ini mencoba menerapkan metode KNN dalam melakukan klasifikasi jenis-jenis jamur yang beracun dan tidak beracun melalui citra.
